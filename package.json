@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "![parks-image-001](https://user-images.githubusercontent.com/19824877/57644293-72470a00-7581-11e9-92ee-36c8403a8919.jpg)\r \\\r \\\r Parks and Playgrounds Inspections Forms - Back End API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1"
+  }
+}
