@@ -1,7 +1,7 @@
 {
-  "name": "api",
+  "name": "parks-api",
   "version": "1.0.0",
-  "description": "![parks-image-001](https://user-images.githubusercontent.com/19824877/57644293-72470a00-7581-11e9-92ee-36c8403a8919.jpg)\r \\\r \\\r Parks and Playgrounds Inspections Forms - Back End API",
+  "description": "API for Parks and Playgrounds Inspections",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "express-validator": "^6.4.0",
-    "mongodb": "^3.5.5",
-    "mongoose": "^5.9.7"
+    "express-validator": "^6.5.0",
+    "mongodb": "^3.5.8",
+    "mongoose": "^5.9.17"
   }
 }
